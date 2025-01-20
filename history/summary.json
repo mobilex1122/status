@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/apps.projnull.eu.ico",
     "slug": "proj-null-apps",
     "status": "up",
-    "uptime": "77.49%",
-    "uptimeDay": "77.49%",
-    "uptimeWeek": "77.49%",
-    "uptimeMonth": "77.49%",
-    "uptimeYear": "77.49%",
-    "time": 742,
-    "timeDay": 742,
-    "timeWeek": 742,
-    "timeMonth": 742,
-    "timeYear": 742,
+    "uptime": "78.13%",
+    "uptimeDay": "78.13%",
+    "uptimeWeek": "78.13%",
+    "uptimeMonth": "78.13%",
+    "uptimeYear": "78.13%",
+    "time": 757,
+    "timeDay": 757,
+    "timeWeek": 757,
+    "timeMonth": 757,
+    "timeYear": 757,
     "dailyMinutesDown": {
       "2025-01-20": 71
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 925,
-    "timeDay": 925,
-    "timeWeek": 925,
-    "timeMonth": 925,
-    "timeYear": 925,
+    "time": 951,
+    "timeDay": 951,
+    "timeWeek": 951,
+    "timeMonth": 951,
+    "timeYear": 951,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 918,
-    "timeDay": 918,
-    "timeWeek": 918,
-    "timeMonth": 918,
-    "timeYear": 918,
+    "time": 917,
+    "timeDay": 917,
+    "timeWeek": 917,
+    "timeMonth": 917,
+    "timeYear": 917,
     "dailyMinutesDown": {
       "2025-01-20": 304
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1005,
-    "timeDay": 1005,
-    "timeWeek": 1005,
-    "timeMonth": 1005,
-    "timeYear": 1005,
+    "time": 984,
+    "timeDay": 984,
+    "timeWeek": 984,
+    "timeMonth": 984,
+    "timeYear": 984,
     "dailyMinutesDown": {}
   }
 ]
