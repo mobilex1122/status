@@ -24,7 +24,7 @@ status-website:
   logoUrl: https://janpalma.cz/assets/logo-nav.png
   name: JP Status
   introTitle: "Jan Palma Status Page"
-  introMessage: https://janpalma.cz/assets/logo-nav.png
+  introMessage: Basic status check site. (Updates every 1hour)
   navbar:
     - title: Status
       href: /
