@@ -21,7 +21,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.janpalma.cz
   #baseUrl: /status
-  logoUrl: https://janpalma.cz/assets/logo-nav.png
+  #logoUrl: https://janpalma.cz/assets/logo-nav.png
   name: JP Status
   introTitle: "Jan Palma Status Page"
   introMessage: Basic status check site.
