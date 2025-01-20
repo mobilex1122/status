@@ -9,8 +9,8 @@ sites:
     url: https://apps.projnull.eu
   - name: Wiki
     url: https://wiki.janpalma.cz
-  - name: API
-    url: https://api.janpalma.cz
+#  - name: API
+#    url: https://api.janpalma.cz
   - name: Analytics
     url: https://analytics.janpalma.cz/matomo.php
   - name: Exeercism Widgets
