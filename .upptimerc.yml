@@ -13,8 +13,6 @@ sites:
     url: https://api.janpalma.cz
   - name: Analytics
     url: https://analytics.janpalma.cz/matomo.php
-  - name: Exeercism Widgets
-    url: https://api.janpalma.cz/exercism/
 workflowSchedule:
   uptime: "*/10 * * * *"
 
