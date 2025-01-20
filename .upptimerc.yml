@@ -12,7 +12,7 @@ sites:
   - name: API
     url: https://api.janpalma.cz
   - name: Exeercism Widgets
-    url: https://api.janpalma.cz/exercism/grahp.png
+    url: https://api.janpalma.cz/exercism/
 workflowSchedule:
   uptime: "0 */1 * * *"
 
