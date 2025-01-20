@@ -31,8 +31,10 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Api
-      href: https://api.janpalma.cz
+    - title: Report Issue
+      href: https://github.com/$OWNER/$REPO/issues
+    - title: Wiki
+      href: https://wiki.janpalma.cz
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 i18n:
