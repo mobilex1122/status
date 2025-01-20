@@ -14,7 +14,7 @@ sites:
   - name: Exeercism Widgets
     url: https://api.janpalma.cz/exercism/
 workflowSchedule:
-  uptime: "0 */1 * * *"
+  uptime: "*/10 * * * *"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -24,7 +24,7 @@ status-website:
   logoUrl: https://janpalma.cz/assets/logo-nav.png
   name: JP Status
   introTitle: "Jan Palma Status Page"
-  introMessage: Basic status check site. (Updates every 1hour)
+  introMessage: Basic status check site.
   navbar:
     - title: Status
       href: /
