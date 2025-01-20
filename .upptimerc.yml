@@ -13,6 +13,8 @@ sites:
     url: https://api.janpalma.cz
   - name: Exeercism Widgets
     url: https://api.janpalma.cz/exercism/grahp.png
+workflowSchedule:
+  uptime: "0 */1 * * *"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
