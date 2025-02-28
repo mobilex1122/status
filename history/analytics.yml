@@ -1,7 +1,7 @@
 url: https://analytics.janpalma.cz/matomo.php
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-02-28T17:42:08.968Z
+status: up
+code: 200
+responseTime: 1004
+lastUpdated: 2025-02-28T17:57:06.567Z
 startTime: 2025-01-20T16:37:59.130Z
 generator: Upptime <https://github.com/upptime/upptime>
